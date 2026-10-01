@@ -1,0 +1,3 @@
+[submodule "Tests/Nebulite"]
+	path = Tests/Nebulite
+	url = https://github.com/lbastigk/Nebulite
